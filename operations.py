@@ -1,0 +1,11 @@
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+print("\n Results")
+print("-------------------------")
+print("Multiplication = ", num1 * num2)
+print("Remainder = ", num1 % num2)
+print("Square of first number = ", num1 ** 2)
+prrint("Square of second number = ", num2 ** 2)
+print("Cube of first number = ", num1 ** 3)
+print("Cube of second number = ", num2 ** 3)
