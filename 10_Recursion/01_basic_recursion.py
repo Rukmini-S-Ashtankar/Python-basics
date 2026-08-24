@@ -1,6 +1,6 @@
 def countdown(number):
-  if number == 0
-     return
+  if number == 0:
+    return
   
   print(number)
   countdown(number - 1)
